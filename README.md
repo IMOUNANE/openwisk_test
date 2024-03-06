@@ -20,4 +20,4 @@ wsk action get seqeunce_web --url
 
 ## Utilisation
 
-il faut créer les actions, ensuite créer les sequences dont l'un est exposer sur le web via l'url définie lors de la configuration de openwisk.
+il faut créer les actions, ensuite créer les sequences dont l'un est exposé sur le web via l'url défini lors de la configuration de openwisk.
