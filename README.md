@@ -3,7 +3,7 @@
 openwisk guide
 
 ## Installation
-
+```sh
 wsk action create script_1 script_1.js
 wsk action create script_2 script_2.py
 wsk action create script_3 script_3.php
@@ -14,7 +14,7 @@ wsk action create sequence_web --sequence script_1,script_2,script_3,render
 
 wsk action invoke sequence_1 -r
 wsk action invoke sequence_web -r
-
+```
 -
 
 ## Utilisation
